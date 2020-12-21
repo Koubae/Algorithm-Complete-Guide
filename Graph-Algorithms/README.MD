@@ -1,38 +1,159 @@
 Graph-Algorithms
 ========
 
+Documentation | Guide & Areas of Study
+-----------------------
+
+
+The following two are the most commonly used representations of a graph:
+
+1. Adjacency Matrix
+2. Adjacency List
+
+3. Incidence Matrix 
+4. Incidence List
+
+
+- Adjacency Matrix
+
+Adjacency Matrix is a 2D array of size V x V where V is the number of vertices in a graph. 
+ Adjacency matrix for undirected graph is **always symmetric.**
+
+- Graph node represented with adj[n][n]
+- Edge = adj[i][j] = 1 | Edge / Path from i to j.
+- Weigthted Graph = adj[i][j] = w (n)
+
+Graph = [
+    [0, 1, 0, 0, 1]  # Node 1
+    [1, 0, 1, 1, 1]  # Node 2
+    [0, 1, 0, 1, 0]  # Node 3
+    [0, 1, 1, 0, 1]  # Node 4
+    [1, 1, 0, 1, 0]  # Node 5
+
+     1  2  3  4  5
+]
+
+
+
+-----------------------------------------------------------------------------------------------------
+
+Terms & Keywords
+----------------
+
+- [Graph theory](https://en.wikipedia.org/wiki/Graph_theory#Applications)
+
+- Set or ordered Pair (u, v) != (v, u)
+- directed graph | **di-graph**
+- weight | value | cost | Distance 
+- Sparse Graph (containing less n of Edges)
+
+
+-----------------------------------------------------------------------------------------------------
+
 
 
 Algorithms
 -------------
 
 
-### Dijkstra
+### A[lpha–beta pruning](https://en.wikipedia.org/w/index.php?title=Alpha%E2%80%93beta_pruning)
 
 ------------------------------------------
 
-### A* algorithm 
+### [A* algorithm](https://en.wikipedia.org/w/index.php?title=A%2A_search_algorithm)
 
-he A* algorithm is a generalization of Dijkstra's algorithm that cuts down on the size of the subgraph that must be explored,
-
-
-------------------------------------------
-
-### Breadth-first search
-
-
-- [Breadth First Search (BFS) | Iterative & Recursive Implementation](https://www.techiedelight.com/breadth-first-search/)
-
+The A* algorithm is a generalization of Dijkstra's algorithm that cuts down on the size of the subgraph that must be explored,
 
 ------------------------------------------
 
-### Depth-first search
+### [B*](https://en.wikipedia.org/w/index.php?title=B%2A)
+
+------------------------------------------
+
+### [Backtracking](https://en.wikipedia.org/w/index.php?title=Backtracking)
+
+------------------------------------------
+
+### [Beam search](https://en.wikipedia.org/w/index.php?title=Beam_search)
 
 ------------------------------------------
 
 ### Bellman–Ford algorithm
 
 Unlike Dijkstra's algorithm, the Bellman–Ford algorithm can be used on graphs with negative edge weights, as long as the graph contains no [negative cycle](https://en.wikipedia.org/wiki/Negative_cycle) reachable from the source vertex s.
+
+------------------------------------------
+
+### [Best-first search](https://en.wikipedia.org/w/index.php?title=Best-first_search)
+
+------------------------------------------
+
+### [Bidirectional search](https://en.wikipedia.org/w/index.php?title=Bidirectional_search)
+
+------------------------------------------
+
+### [Borůvka's algorithm](https://en.wikipedia.org/w/index.php?title=Bor%C5%AFvka%27s_algorithm)
+
+------------------------------------------
+
+### [Branch and bound](https://en.wikipedia.org/w/index.php?title=Branch_and_bound)
+
+------------------------------------------
+
+### Breadth-first search
+
+- [Breadth First Search (BFS) | Iterative & Recursive Implementation](https://www.techiedelight.com/breadth-first-search/)
+
+
+------------------------------------------
+
+### [British Museum algorithm](https://en.wikipedia.org/w/index.php?title=British_Museum_algorithm)
+
+------------------------------------------
+
+### [D*](https://en.wikipedia.org/w/index.php?title=D%2A)
+
+------------------------------------------
+
+### [Depth-first search](https://en.wikipedia.org/w/index.php?title=Depth-first_search)
+------------------------------------------
+
+### [Iterative deepening depth-first search](https://en.wikipedia.org/wiki/Iterative_deepening_depth-first_search)
+
+------------------------------------------
+
+### [Dijkstra](https://github.com/Koubae/Algorithm-Complete-Guide/tree/master/Graph-Algorithms/Dijkstra)
+
+- [DOCS](http://www.cse.unt.edu/~tarau/teaching/AnAlgo/Dijkstra%27s%20algorithm.pdf#%5B%7B%22num%22%3A16%2C%22gen%22%3A0%7D%2C%7B%22name%22%3A%22XYZ%22%7D%2C254.0049%2C787.6635%2C0%5D)
+------------------------------------------
+
+### [Edmonds' algorithm]https://en.wikipedia.org/w/index.php?title=Edmonds%27_algorithm)
+
+------------------------------------------
+### [FloydWarshall algorithm14Floyd–Warshall algorithm](http://www.cse.unt.edu/~tarau/teaching/AnAlgo/Dijkstra%27s%20algorithm.pdf#%5B%7B%22num%22%3A44%2C%22gen%22%3A0%7D%2C%7B%22name%22%3A%22XYZ%22%7D%2C313.8889%2C787.6635%2C0%5D)
+
+
+------------------------------------------
+
+### [Fringe search](https://en.wikipedia.org/w/index.php?title=Fringe_search)
+
+
+------------------------------------------
+
+### [Hill climbing](https://en.wikipedia.org/w/index.php?title=Hill_climbing)
+
+
+------------------------------------------
+### [Iterative deepening A*](https://en.wikipedia.org/wiki/Iterative_deepening_A*)
+
+
+------------------------------------------
+### [Iterative deepening depth-first search](https://en.wikipedia.org/w/index.php?title=Iterative_deepening_depth-first_search)
+
+
+
+------------------------------------------
+### [Kruskal's algorithm](https://en.wikipedia.org/w/index.php?title=Kruskal%27s_algorithm)
 
 ------------------------------------------
 
@@ -50,6 +171,7 @@ Unlike Dijkstra's algorithm, the Bellman–Ford algorithm can be used on graphs 
 ### Fast marching method 
 
 - [Source](https://en.wikipedia.org/wiki/Fast_marching_method)
+
 ------------------------------------------
 
 
@@ -74,9 +196,8 @@ Unlike Dijkstra's algorithm, the Bellman–Ford algorithm can be used on graphs 
 
 -----------------------------------------------------------------------------------------------------
 
-Documentation | Guide & Areas of Study
------------------------
-
+References
+----------
 
 
 ### Related Algorithms
@@ -124,21 +245,6 @@ Documentation | Guide & Areas of Study
 - [Open Shortest Path First](https://en.wikipedia.org/wiki/Open_Shortest_Path_First)
 - [IS-IS](https://en.wikipedia.org/w/index.php?title=IS-IS)
 - [Motion planning](https://en.wikipedia.org/w/index.php?title=Motion_planning)
-
-
------------------------------------------------------------------------------------------------------
-
-Terms & Keywords
-----------------
-
-
-
------------------------------------------------------------------------------------------------------
-
-References
-----------
-
-
 
 -----------------------------------------------------------------------------------------------------
 
