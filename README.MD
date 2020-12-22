@@ -22,6 +22,7 @@ Guide & Areas of Study
 
 - [Induced path | induced cycle | chordless cycles](https://en.wikipedia.org/wiki/Induced_path)
 
+- [Chordless Cycle](https://mathworld.wolfram.com/ChordlessCycle.html)
 
 -----------------------------------------------------------------------------------------------------
 

@@ -85,6 +85,7 @@ Terms & Keywords
 ----------------
 
 - [Graph theory](https://en.wikipedia.org/wiki/Graph_theory#Applications)
+- [Bipartite graph](https://en.wikipedia.org/wiki/Bipartite_graph)
 
 - Set or ordered Pair (u, v) != (v, u)
 - directed graph | **di-graph**
@@ -92,6 +93,8 @@ Terms & Keywords
 - Sparse Graph (containing less n of Edges)
 - Undirected Graph [WIKI](https://en.wikipedia.org/wiki/Glossary_of_graph_theory_terms#undirected)
 - Directed graphs
+
+
 
 
 -----------------------------------------------------------------------------------------------------

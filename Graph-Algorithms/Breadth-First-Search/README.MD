@@ -65,6 +65,11 @@ print(tree)
 
 #### Level Order Binary Tree Traversal
 
+- [Breadth-first search / level order](https://en.wikipedia.org/wiki/Tree_traversal#Breadth-first_search_/_level_order)
+
+Trees can also be traversed in level-order, where we visit every node on a level before going to a lower level. This search is referred to as breadth-first search (BFS), as the search tree is broadened as much as possible on each depth before going to the next depth. 
+
+
 ###### Tree traversal | Tree search | Walking the tree | Graph traversal | Binary tree
 
 - [Tree traversal WIKI](https://en.wikipedia.org/wiki/Tree_traversal)
@@ -153,3 +158,10 @@ References
 
 Notes
 -----
+
+
+In a **Breadth First search** if you instead of a Queue you use a **Priority Queue** and define a sorting function on the nodes such that the node with the lowest cost is at the top of the Priority Queue you basically are doing a **Dijkstra (Heap method)**
+
+ This allows us to find the best path through a graph in O(m * log(n)) time where n is the number of vertices and m is the number of edges in the graph.
+
+ - [Source](https://www.topcoder.com/community/competitive-programming/tutorials/introduction-to-graphs-and-their-data-structures-section-3/)
