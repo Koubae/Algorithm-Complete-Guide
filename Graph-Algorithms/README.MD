@@ -13,8 +13,12 @@ The following two are the most commonly used representations of a graph:
 3. Incidence Matrix 
 4. Incidence List
 
+---------------------------------
 
-- Adjacency Matrix
+
+- #### [Adjacency Matrix](https://github.com/Koubae/Algorithm-Complete-Guide/blob/master/Graph-Algorithms/graph_adjacency_matrix.py)
+
+- [Adjacency matrix WIKI](https://en.wikipedia.org/wiki/Adjacency_matrix)
 
 Adjacency Matrix is a 2D array of size V x V where V is the number of vertices in a graph. 
  Adjacency matrix for undirected graph is **always symmetric.**
@@ -33,7 +37,47 @@ Graph = [
      1  2  3  4  5
 ]
 
+---------------------------------
 
+- #### [Adjacency List]()
+
+- [Adjacency list WIKI](https://en.wikipedia.org/wiki/Adjacency_list)
+
+adjacency list is a collection of unordered lists used to represent a finite graph. 
+
+
+---------------------------------
+
+### Spanning Tree & Minimum Spanning Tree
+
+*  Undirected graph
+
+The edges do not point in any direction (ie. the edges are bidirectional), hence if there is a path between V a and V b you can go (a, b) or reverse (b, a).
+
+* Connected graph
+
+Paths are one direction, V a and V b, if only path (a, b) is set then you can't go (b, a).
+
+* **Spanning tree**
+
+A spanning tree is a sub-graph of an *undirected or connected graph*, which includes all the vertices of the graph with a **minimum** possible number of edges. 
+
+If a vertex is missed, then it is not a spanning tree.
+
+The edges may or may not have weights assigned to them.
+
+The total number of spanning trees with n vertices that can be created from a complete graph is equal to n(n-2).
+
+If we have n = 4, the maximum number of possible spanning trees is equal to 44-2 = 16. Thus, 16 spanning trees can be formed from a complete graph with 4 vertices.
+
+* **Minimum Spanning Tree**
+
+A minimum spanning tree is a spanning tree in which the sum of the weight of the edges is as minimum as possible.
+
+
+- Prim's Algorithm
+- Kruskal's Algorithm
+- Dijkstra's Algorithm
 
 -----------------------------------------------------------------------------------------------------
 
@@ -46,6 +90,8 @@ Terms & Keywords
 - directed graph | **di-graph**
 - weight | value | cost | Distance 
 - Sparse Graph (containing less n of Edges)
+- Undirected Graph [WIKI](https://en.wikipedia.org/wiki/Glossary_of_graph_theory_terms#undirected)
+- Directed graphs
 
 
 -----------------------------------------------------------------------------------------------------
@@ -191,8 +237,19 @@ Unlike Dijkstra's algorithm, the Bellman–Ford algorithm can be used on graphs 
 
 - **Tail Recursion** [StackOverflow](https://stackoverflow.com/questions/33923/what-is-tail-recursion)
 
-- Monte Carlo method
+- [Monte Carlo method](https://en.wikipedia.org/wiki/Monte_Carlo_tree_search)
 
+
+#### Tree traversal | Tree search | Walking the tree | Graph traversal | Binary tree
+
+- [Tree traversal WIKI](https://en.wikipedia.org/wiki/Tree_traversal)
+- [Graph traversal WIKI](https://en.wikipedia.org/wiki/Graph_traversal)
+- [Binary tree WIKI](https://en.wikipedia.org/wiki/Binary_tree)
+
+    >  Depth-first search
+    > Breadth-first search
+    > [Iterative deepening depth-first search](https://en.wikipedia.org/wiki/Iterative_deepening_depth-first_search)
+    > [Monte Carlo tree search](https://en.wikipedia.org/wiki/Monte_Carlo_tree_search)
 
 -----------------------------------------------------------------------------------------------------
 
