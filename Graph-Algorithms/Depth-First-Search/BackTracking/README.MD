@@ -8,7 +8,7 @@ Typical problems
 
 * The Knight’s tour problem
 
-> [Python](https://github.com/Koubae/Algorithm-Complete-Guide/blob/master/Graph-Algorithms/BackTracking/Python/n_queens_on_NxN_chessboard_1.py)
+> [Python](https://github.com/Koubae/Algorithm-Complete-Guide/blob/master/Graph-Algorithms/Depth-First-Search/BackTracking/Python/n_queens_on_NxN_chessboard_1.py)
 
 > C
 
@@ -53,8 +53,11 @@ General steps:
 
 ### Rat in a maze
 
-- [Python](https://github.com/Koubae/Algorithm-Complete-Guide/blob/master/Graph-Algorithms/BackTracking/Python/rat_in_maze.py)
+- Python:
 
+    1. [Rat_in_maze_1](https://github.com/Koubae/Algorithm-Complete-Guide/blob/master/Graph-Algorithms/Depth-First-Search/BackTracking/Python/rat_in_maze.py)
+    2. [Rat_in_maze_2](https://github.com/Koubae/Algorithm-Complete-Guide/blob/master/Graph-Algorithms/Depth-First-Search/BackTracking/Python/rat_in_maze2.py)
+    
 - C
 
 - Java
