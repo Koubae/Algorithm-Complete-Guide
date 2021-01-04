@@ -31,6 +31,30 @@ Terms & Keywords
 
 
 
+- Worst-case complexity − When the amount of time required by an algorithm for a given input is maximum.
+
+- Average-case complexity − When the amount of time required by an algorithm for a given input is average.
+
+- Best-case complexity − When the amount of time required by an algorithm for a given input is minimum.
+
+- Asymptotic Analysis:
+
+The complexity or efficiency of an algorithm is the number of steps executed by the algorithm to get the desired output. 
+
+Asymptotic notation is the easiest way to describe the fastest and slowest possible execution time for an algorithm using high bounds and low bounds on speed. For this, we use the following notations:
+
+
+- **Big O notation**
+
+- **Omega notation**
+
+- **Theta notation**
+
+
+- Speedup of an Algorithm
+
+- Total Cost
+
 -----------------------------------------------------------------------------------------------------
 
 References
