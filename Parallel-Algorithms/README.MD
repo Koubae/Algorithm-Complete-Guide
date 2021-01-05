@@ -31,6 +31,38 @@ Guide & Areas of Study
 Terms & Keywords
 ----------------
 
+- Data parallel model
+- Task graph model
+- Work pool model
+- Master slave model
+- Producer consumer or pipeline model
+- Hybrid model
+
+- Parallel Random Access Machines (PRAM) 
+- memory access unit (MAU) 
+
+- SolarisTM threads for Solaris 
+- POSIX threadsin Linux 
+- Win32 threads  Windows NT and Windows 2000
+- JavaTM threads as part of the standard JavaTM Development Kit (JDK).
+
+
+- Message Passing Libraries
+- Message Passing Interface (MPI)
+- Parallel Virtual Machine (PVM)
+
+
+- Linked List
+    
+    - Singly Linked List
+    - Doubly Linked List
+    - Circular Linked List
+
+- Arrays
+- Hypercube Network
+
+    - [Hypercube --WIKI--](https://en.wikipedia.org/wiki/Hypercube)
+    - [Hypercube internetwork topology --WIKI--](https://en.wikipedia.org/wiki/Hypercube_internetwork_topology)
 
 
 -----------------------------------------------------------------------------------------------------
