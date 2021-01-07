@@ -2,6 +2,8 @@
     Python: Maximum combined difference in array, Python
 
     @ https://stackoverflow.com/questions/53041365/python-maximum-difference-between-elements-in-a-list
+
+    @ https://math.stackexchange.com/a/3975296/841658
 """
 
 # print(*maxDiffs([8, 4, 1, 2, 3, 7]))  # 25 [4, 1, 8, 2, 7, 3]
