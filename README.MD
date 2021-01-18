@@ -2,6 +2,8 @@ AlgoRithms
 ========
 
 
+Computer science is the study of problems, problem-solving, and the solutions that come out of the problem-solving process. Given a problem, a computer scientist’s goal is to develop an algorithm, a step-by-step list of instructions for solving any instance of the problem that might arise. Algorithms are finite processes that if followed will solve the problem. Algorithms are solutions.[ref](#Gerry_Jenkins)
+
 
 -----------------------------------------------------------------------------------------------------
 
@@ -158,6 +160,12 @@ Asymptotic notation is the easiest way to describe the fastest and slowest possi
 
 - asymptotic complexity
 
+- Abstract data type  | ADT
+- data abstraction
+- encapsulation 
+- information hiding
+- order of magnitude
+
 
 -----------------------------------------------------------------------------------------------------
 
@@ -165,6 +173,14 @@ References
 ----------
 
 - [Time Complexity Python](https://wiki.python.org/moin/TimeComplexity)
+
+###### Gerry_Jenkins
+
+* [What Is Computer Science?](https://runestone.academy/runestone/books/published/pythonds3/Introduction/WhatIsComputerScience.html)
+
+**NOTE**
+
+Worth to check is Gerry Jenkins Playlist in Youtube, where he covers Algorithm, Data Structures and Computer Science focused around Python ---> [HERE](https://www.youtube.com/c/GerryJenkins)
 
 -----------------------------------------------------------------------------------------------------
 
