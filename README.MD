@@ -166,6 +166,12 @@ Asymptotic notation is the easiest way to describe the fastest and slowest possi
 - information hiding
 - order of magnitude
 
+- Linear Structures
+- abstract data types stack | queue | deque | list
+- ADTs stack
+- prefix | infix | postfix 
+
+
 
 -----------------------------------------------------------------------------------------------------
 
