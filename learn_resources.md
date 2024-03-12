@@ -25,6 +25,7 @@ Video Tutorials
 * [Professor Gerry Jenkins](https://www.youtube.com/c/GerryJenkins/playlists)
 * [Dynamic Programming - Learn to Solve Algorithmic Problems & Coding Challenges](https://www.youtube.com/watch?v=oBt53YbR9Kk)
 * [CS50 | Data structure Playlists](https://www.youtube.com/c/cs50/search?query=structure)
+* [Algorithms part 1 complete](https://www.youtube.com/watch?v=9diDWV-fOnE&t=1374s)
 
 
 ### Udemy 
