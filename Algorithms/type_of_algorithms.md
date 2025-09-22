@@ -43,6 +43,8 @@ Graph
 
 * [Breadth First Search (BFS) | Iterative & Recursive Implementation](https://www.techiedelight.com/breadth-first-search/)
 * [Depth-first search (DFS)](https://en.wikipedia.org/w/index.php?title=Depth-first_search)
+  * [Inorder](https://en.wikipedia.org/wiki/Tree_traversal#In-order_implementation) | [Inorder (LeetCode Challange)](https://leetcode.com/problems/binary-tree-inorder-traversal/description/)
+
 * [Iterative deepening depth-first search](https://en.wikipedia.org/wiki/Iterative_deepening_depth-first_search)
 
 
