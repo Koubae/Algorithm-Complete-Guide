@@ -34,8 +34,11 @@ Video Tutorials
 
 ### Coursera 
 
-* [Data Structures and Algorithms Specialization](https://www.coursera.org/specializations/data-structures-algorithms)
+* [University of California San Diego -- Data Structures and Algorithms Specialization](https://www.coursera.org/specializations/data-structures-algorithms)
+* [University of California San Diego -- Object Oriented Java Programming: Data Structures and Beyond Specialization](https://www.coursera.org/specializations/java-object-oriented)
+* [Amazon -- Data Structures and Algorithms](https://www.coursera.org/learn/developer-data-structures-and-algorithms)
 
+* [University Of Colorado -- Foundations of Data Structures and Algorithms Specialization](https://www.coursera.org/specializations/boulder-data-structures-algorithms)
 
 
 ### Others
