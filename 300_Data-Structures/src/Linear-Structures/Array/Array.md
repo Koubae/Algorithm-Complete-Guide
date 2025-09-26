@@ -17,6 +17,7 @@ Content
 ---------------
 
 * [Array (Python 🐍)](300_Data-Structures/src/Linear-Structures/Array/Python/Array%20(Python%20🐍).md)
+* [Array (C - C++ ©️)](./C/Array%20(C%20-%20C++%20©️).md)
 
 Documentation
 -------------
