@@ -1,4 +1,7 @@
 
+Content
+---------------
+
 *Collection of keywords, buzzwords and references*
 
 * Time Complexity
@@ -45,3 +48,8 @@ Asymptotic notation is the easiest way to describe the fastest and slowest possi
 - internal fragmentation -> Memory wastage inside a partition
 - Most Recently Used (MRU)
 - Asymptotic Analysis 
+
+
+Related
+----------------------------
+

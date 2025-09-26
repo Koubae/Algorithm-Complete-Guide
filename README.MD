@@ -6,14 +6,14 @@ Algorithms & Data Structure Guide
 > Computer science is the study of problems, problem-solving, and the solutions that come out of the problem-solving process.
 > Given a problem, a computer scientist’s goal is to develop an algorithm, a step-by-step list of instructions for solving any instance of the problem that might arise. 
 > Algorithms are finite processes that if followed will solve the problem. Algorithms are solutions.
-> **Credit:**  [Gerry Jenkins](#gerry-jenkins)
+> **Credit:**  [Gerry Jenkins](./100_Notes/References.md#gerry-jenkins)
 
 Content
 --------------
 
+* [Index](./000_Index/Index.md)
 * [Notes](./100_Notes/Notes.md)
 * [Learn](./200_Learn/Learn.md)
-
 
 ### About the project structure
 

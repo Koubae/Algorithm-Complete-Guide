@@ -1,6 +1,9 @@
 Guide & Areas of Study 
 =====
 
+Content
+---------------
+
 - [Big O notation](https://en.wikipedia.org/wiki/Big_O_notation)
 - [Travelling salesman problem](https://en.wikipedia.org/wiki/Travelling_salesman_problem)
 - [Induced path | induced cycle | chordless cycles](https://en.wikipedia.org/wiki/Induced_path)
@@ -15,3 +18,7 @@ Guide & Areas of Study
 **Quick answer: ** _Data Structure basic then Algorithms and keep study Data structure in the same time_
 
 * [Algorithms and Data Structures Cheatsheet | In Java](https://algs4.cs.princeton.edu/cheatsheet/)
+
+Related
+----------------------------
+

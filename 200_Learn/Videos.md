@@ -1,6 +1,9 @@
 Videos
 ========
 
+Content
+---------------
+
 ### YouTube
 
 * [Algorithms and Data Structures Tutorial - Full Course for Beginners](https://www.youtube.com/watch?v=8hly31xKli0)
@@ -21,3 +24,7 @@ Videos
 * [Amazon -- Data Structures and Algorithms](https://www.coursera.org/learn/developer-data-structures-and-algorithms)
 
 * [University Of Colorado -- Foundations of Data Structures and Algorithms Specialization](https://www.coursera.org/specializations/boulder-data-structures-algorithms)
+
+Related
+----------------------------
+
