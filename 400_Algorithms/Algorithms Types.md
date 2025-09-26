@@ -1,4 +1,4 @@
-Type of Algorithms and list 
+Algorithms Types
 ==================
 
 
@@ -10,7 +10,6 @@ Type of programming  techniques used
 * Data-Structures 
 
 
-
 Search 
 ------
 
@@ -20,21 +19,15 @@ Search
 * [alpha–beta pruning](https://en.wikipedia.org/w/index.php?title=Alpha%E2%80%93beta_pruning)
 * [Borůvka's algorithm](https://en.wikipedia.org/w/index.php?title=Bor%C5%AFvka%27s_algorithm)
 
-
-
 Sort
 ----
-
 
 * Bubble Sort
 * Insertion Sort
 * Selection Sort
 * Merge Sort
 * Quick Sort
-
-
 * Heapsort
-
 
 Graph
 -----
@@ -46,7 +39,6 @@ Graph
   * [Inorder](https://en.wikipedia.org/wiki/Tree_traversal#In-order_implementation) | [Inorder (LeetCode Challange)](https://leetcode.com/problems/binary-tree-inorder-traversal/description/)
 
 * [Iterative deepening depth-first search](https://en.wikipedia.org/wiki/Iterative_deepening_depth-first_search)
-
 
 * [A* algorithm](https://en.wikipedia.org/w/index.php?title=A%2A_search_algorithm)
 * [B*](https://en.wikipedia.org/w/index.php?title=B%2A)
@@ -106,7 +98,6 @@ Graph
 - **heapq — Heap queue algorithm** [--Python Docs--](https://docs.python.org/3/library/heapq.html)
 - [--Python Docs-- nsmallest](https://docs.python.org/3/library/heapq.html#heapq.nsmallest)
 
-
 - **Selection algorithm** [WIKI](https://en.wikipedia.org/wiki/Selection_algorithm)
 
 - **Cache replacement policies**[WIKI](https://en.wikipedia.org/wiki/Cache_replacement_policies#Least_recently_used_(LRU))
@@ -141,7 +132,6 @@ General Purpose
 
 References
 ----------
-
 
 ### Related Algorithms
 

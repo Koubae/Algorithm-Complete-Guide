@@ -11,4 +11,4 @@ Algorithms
 Content
 ---------------
 
-* [Types of Algorithms](type_of_algorithms.md)
+* [Algorithms Types](Algorithms%20Types.md)
