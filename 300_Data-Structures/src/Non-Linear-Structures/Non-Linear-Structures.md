@@ -9,7 +9,7 @@ tags:
   - weighted-graph
   - unweighted-graph
   - adjacency-list
-date: 2026-09-26
+date: 2025-09-26
 ---
 Non-Linear-Structures
 =========
@@ -18,6 +18,7 @@ Content
 ---------------
 
 * [Binary Trees 🌳](./Binary-Tree/Binary-Tree%20🌳.md)
+* [Graph Data Structure](./Graph/Graph%20Data%20Structure.md)
 
 
 ### Types of structures
