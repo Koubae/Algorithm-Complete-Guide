@@ -167,3 +167,5 @@ Table in order from best to worst
 | Exponential | O(Xⁿ) / O(2ⁿ) |     |
 | Factorial   | O(n!)         |     |
 
+Related
+----------------------------

@@ -2,6 +2,9 @@ Learn
 =======
 
 
+Content
+---------------
+
 _A Collection of resources, books, videos, tutorial and more in order to learn Algorithms and Data-Structures_
 
 * [Books](Books.md)
@@ -9,8 +12,8 @@ _A Collection of resources, books, videos, tutorial and more in order to learn A
 - [Platforms](Platforms.md)
 - [Videos](Videos.md)
 
-
-### Other
+Related
+----------------------------
 
 * [7 Best Courses to learn Data Structure and Algorithms](https://medium.com/javarevisited/7-best-courses-to-learn-data-structure-and-algorithms-d5379ae2588)
 * [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
