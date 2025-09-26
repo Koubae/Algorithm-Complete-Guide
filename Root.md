@@ -1,8 +1,5 @@
-Root
-======
-
-
 *Obsidian Graph root*
+======
 
 
 * [Notes](./100_Notes/Notes.md)

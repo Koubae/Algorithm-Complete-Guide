@@ -1,4 +1,4 @@
-Algorithms
+Algorithms & Data Structure Guide
 ========
 
 
