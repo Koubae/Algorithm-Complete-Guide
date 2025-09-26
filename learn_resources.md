@@ -49,8 +49,3 @@ Video Tutorials
 * [Data Structures Handbook Data Structures at your fingertips](https://www.thedshandbook.com/)
 * [tutorialspoint Data Structures & Algorithms - Quick Guide](https://www.tutorialspoint.com/data_structures_algorithms/dsa_quick_guide.htm)
 * [The Intuitive Guide to Data Structures And Algorithms](https://www.interviewcake.com/data-structures-and-algorithms-guide)
-
-### [Books and Learning]
-
-- [useful_resource  | tutorialspoint.com](https://www.tutorialspoint.com/parallel_algorithm/parallel_algorithm_useful_resources.htm)
-- [Time and Space complexity of Quick Sort | iq.opengenus.org](https://iq.opengenus.org/time-and-space-complexity-of-quick-sort/)

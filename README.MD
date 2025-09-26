@@ -2,13 +2,17 @@ Algorithms
 ========
 
 
-Computer science is the study of problems, problem-solving, and the solutions that come out of the problem-solving process. Given a problem, a computer scientist’s goal is to develop an algorithm, a step-by-step list of instructions for solving any instance of the problem that might arise. Algorithms are finite processes that if followed will solve the problem. Algorithms are solutions.[ref](#Gerry_Jenkins)
+
+> Computer science is the study of problems, problem-solving, and the solutions that come out of the problem-solving process.
+> Given a problem, a computer scientist’s goal is to develop an algorithm, a step-by-step list of instructions for solving any instance of the problem that might arise. 
+> Algorithms are finite processes that if followed will solve the problem. Algorithms are solutions.
+> **Credit:**  [Gerry Jenkins](#gerry-jenkins)
 
 
------------------------------------------------------------------------------------------------------
+---
 
 Documentation
--------------
+---------------------------
 
 
 * Search 
@@ -145,7 +149,7 @@ Table in order from best to worst
 | Exponential  | O(Xⁿ) / O(2ⁿ) | 
 | Factorial    | O(n!)         | 
 
------------------------------------------------------------------------------------------------------
+---
 
 Guide & Areas of Study
 -----------------------
@@ -173,7 +177,7 @@ Guide & Areas of Study
 
 * [Algorithms and Data Structures Cheatsheet | In Java](https://algs4.cs.princeton.edu/cheatsheet/)
 
------------------------------------------------------------------------------------------------------
+---
 
 
 Visualizations
@@ -183,74 +187,30 @@ Visualizations
 * [codelike.in | linked-list](https://www.codelike.in/animation/linked-list)
 * [Bredth-First Search Visualization](https://www.cs.usfca.edu/~galles/visualization/BFS.html)
 
------------------------------------------------------------------------------------------------------
+---
 
 Terms & Keywords
 ----------------
 
-- Time Complexity
-- Space Complexity (pc space consumption)
-
-- Best-case complexity − When the amount of time required by an algorithm for a given input is minimum.
-- Worst-case complexity − When the amount of time required by an algorithm for a given input is maximum.
-- Average-case complexity − When the amount of time required by an algorithm for a given input is average.
-- Asymptotic Analysis:
-The complexity or efficiency of an algorithm is the number of steps executed by the algorithm to get the desired output. 
-Asymptotic notation is the easiest way to describe the fastest and slowest possible execution time for an algorithm using high bounds and low bounds on speed. For this, we use the following notations:
 
 
-- **Big O notation**
-- **Omega notation**
-- **Theta notation**
-- Speedup of an Algorithm
-- Total Cost
-- Avalanche effect
-- [Space–time tradeoff](https://en.wikipedia.org/wiki/Space%E2%80%93time_tradeoff)
-- [Bisection method](https://en.wikipedia.org/wiki/Bisection_method)
-- [Ackermann function](https://en.wikipedia.org/wiki/Ackermann_function)
-- in-place or in-situ, algorithms.
-- asymptotic complexity
 
-- Abstract data type  
-  - [ADT](https://en.wikipedia.org/wiki/Abstract_data_type#:~:text=In%20computer%20science%2C%20an%20abstract,the%20behavior%20of%20these%20operations.)
-  - [ADT | geeksforgeeks](https://www.geeksforgeeks.org/abstract-data-types/)
-- data abstraction
-- encapsulation 
-- information hiding
-- order of magnitude
-
-- Linear Structures
-- abstract data types stack | queue | deque | list
-- ADTs stack
-- prefix | infix | postfix 
-- Algorithmic Thinking 
-- **Amortized Constant Space Complexity**
-- Self Referential Object
-- Contiguous Memory
-- Non-Contiguous Memory
-- Fixed Sized Partition
-- Variable sized Partition
-- internal fragmentation -> Memory wastage inside a partition
-- Most Recently Used (MRU)
-- Asymptotic Analysis 
-
-
------------------------------------------------------------------------------------------------------
+---
 
 References
 ----------
 
 - [Time Complexity Python](https://wiki.python.org/moin/TimeComplexity)
 
-###### Gerry_Jenkins
+###### Gerry Jenkins
 
 * [What Is Computer Science?](https://runestone.academy/runestone/books/published/pythonds3/Introduction/WhatIsComputerScience.html)
 
 **NOTE**
 
-Worth to check is Gerry Jenkins Playlist in Youtube, where he covers Algorithm, Data Structures and Computer Science focused around Python ---> [HERE](https://www.youtube.com/c/GerryJenkins)
+Worth to check is Gerry Jenkins Playlist in YouTube, where he covers Algorithm, Data Structures and Computer Science focused around Python ---> [HERE](https://www.youtube.com/c/GerryJenkins)
 
------------------------------------------------------------------------------------------------------
+---
 
 
 Projects
@@ -269,11 +229,11 @@ Projects
 
 - [Algorithm-visualizer](https://algorithm-visualizer.org/)
 
-
------------------------------------------------------------------------------------------------------
+---
 
 Notes
 -----
 
 
 ### [Books and Learning](learn_resources.md)
+
