@@ -1,2 +1,2 @@
-*Binary Search in Python 🐍*
+*Binary Breadth-First-Search in Python 🐍*
 

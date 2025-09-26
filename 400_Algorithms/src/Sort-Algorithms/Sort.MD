@@ -1,7 +1,20 @@
-Graph-Algorithms
+---
+tags:
+  - algorithm
+  - sort-algorithm
+  - quick-sort
+  - merge-sort
+  - heap-sort
+  - bubble-sort
+  - insertion-sort
+  - selection-sort
+date: 2025-09-26
+---
+Sort-Algorithms
 ========
 
-
+Content
+---------------
 
 * [QuickSort](./QuickSort/QuickSort.md)
 * [MergeSort](./MergeSort/MergeSort.md)

@@ -49,7 +49,7 @@ Content
     * Lowest Common Ancestor (LCA)
     * Segment Tree Operations
     * Fenwick Tree (Binary Indexed Tree)
-* [Sort](./src/Sort-Algorithms/Sort.MD)
+* [Sort](Sort.md)
   * QuickSort
   * MergeSort
   * HeapSort

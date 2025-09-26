@@ -1,7 +1,18 @@
+---
+tags:
+  - algorithm
+  - graphs
+  - graph-traversal
+  - backtracking
+date: 2025-09-26
+---
 Backtraking
 ========
 
 Backtracking is a **recursive** Algorithm that try all possible possibilities, it uses to solve Puzzles, Mazes, crosswords, Sudoku etc.., is finding the solution of a problem whereby *the solution depends on the previous steps taken.*
+
+Content
+---------------
 
 * [BackTracking (Python 🐍)](./Python/BackTracking%20(Python%20🐍).md)
 
@@ -9,6 +20,17 @@ Typical problems
 ----------------
 
 * The Knight’s tour problem
+BackTracking
+=========
+
+Content
+---------------
+
+
+Related
+----------------------------
+
+
 
 > [Python](https://github.com/Koubae/Algorithm-Complete-Guide/blob/master/Graph-Algorithms/Depth-First-Search/BackTracking/Python/n_queens_on_NxN_chessboard_1.py)
 

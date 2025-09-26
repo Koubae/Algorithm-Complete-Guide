@@ -1,6 +1,15 @@
+---
+tags:
+  - algorithm
+  - graphs
+  - breadth-first-search
+date: 2025-09-26
+---
 BFS Breadth-First-Search
-========
+=========
 
+Content
+---------------
 
 * [BFS Breadth-First-Search (Python 🐍)](./Python/BFS%20Breadth-First-Search%20(Python%20🐍).md)
 
@@ -84,9 +93,6 @@ Trees can also be traversed in level-order, where we visit every node on a level
     > [Monte Carlo tree search](https://en.wikipedia.org/wiki/Monte_Carlo_tree_search)
 
 
-
------------------------------------------------------------------------------------------------------
-
 Guide & Areas of Study
 -----------------------
 
@@ -125,9 +131,6 @@ procedure BFS(G, v) is
 
 ```
 
-
------------------------------------------------------------------------------------------------------
-
 Terms & Keywords
 ----------------
 
@@ -143,8 +146,6 @@ Terms & Keywords
 
 * BFS ordering
 
------------------------------------------------------------------------------------------------------
-
 References
 ----------
 
@@ -156,8 +157,6 @@ References
 
 - [Routing (electronic design automation)](https://en.wikipedia.org/wiki/Routing_(electronic_design_automation))
 
------------------------------------------------------------------------------------------------------
-
 Notes
 -----
 
@@ -167,3 +166,4 @@ In a **Breadth First search** if you instead of a Queue you use a **Priority Que
  This allows us to find the best path through a graph in O(m * log(n)) time where n is the number of vertices and m is the number of edges in the graph.
 
  - [Source](https://www.topcoder.com/community/competitive-programming/tutorials/introduction-to-graphs-and-their-data-structures-section-3/)
+

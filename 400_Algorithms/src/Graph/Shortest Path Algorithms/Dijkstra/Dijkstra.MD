@@ -1,9 +1,19 @@
+---
+tags:
+  - algorithm
+  - graphs
+  - path-algorithms
+  - dijkstra
+date: 2025-09-26
+---
 Dijkstra
 ========
 
 
 Dijkstra Algorithm finds shortest paths between nodes in a graph for a given source node in the graph, the results is based on the relative point of the source path., find Path between 2 vertices | nodes in a Graph with minimum Edges's weights sum cost.
 
+Content
+---------------
 
 * [Dijkstra (Python 🐍)](./Python/Dijkstra%20(Python%20🐍).md)
 

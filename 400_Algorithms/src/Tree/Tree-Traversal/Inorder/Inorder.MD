@@ -1,7 +1,20 @@
+---
+tags:
+  - algorithm
+  - trees
+  - traversal-algorithm
+  - inorder
+date: 2025-09-26
+---
 Tree-Travelsal -- Inorder
-=========================
+=========
 
-* [Tree-Travelsal-Inorder (Go)](./go/Tree-Travelsal-Inorder%20(Go).md)
+Content
+---------------
+
+* [Tree-Travelsal-Inorder (Go 🦫)](Tree-Travelsal-Inorder%20(Go%20🦫).md)
+
+### Documentation 
 
 * [Inorder](https://en.wikipedia.org/wiki/Tree_traversal#In-order_implementation)
 * [Inorder (LeetCode Challange)](https://leetcode.com/problems/binary-tree-inorder-traversal/description/)

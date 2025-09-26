@@ -2,6 +2,9 @@
 tags:
   - algorithm
   - trees
+  - balancing-algorithm
+  - heap-algorithm
+  - traversal-algorithm
 date: 2025-09-26
 ---
 Tree

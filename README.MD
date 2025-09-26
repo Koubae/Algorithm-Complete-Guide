@@ -30,9 +30,6 @@ Furthermore, this Project has been written using different Tools and IDEs:
 * Go: GoLand
 * C/C++: CLion
 
-
----
-
 Documentation
 ---------------------------
 
@@ -59,8 +56,6 @@ All recursive algorithms must obey three important laws:
 
 **Change of state** means that some data that the algorithm is using is modified. Usually the data that represents our problem gets smaller in some way.
 
-
-
 ### Design Techniques
 
 Selecting a proper designing technique for a parallel algorithm is the most difficult and important task. Most of the parallel programming problems may have more than one solution. In this chapter, we will discuss the following designing techniques for parallel algorithms −
@@ -71,7 +66,6 @@ Selecting a proper designing technique for a parallel algorithm is the most diff
 - Backtracking
 - Branch & Bound
 - Linear Programming
-
 
 #### Divide and Conquer Method
 
@@ -103,7 +97,6 @@ This algorithm is a called greedy because when the optimal solution to the small
 
 A greedy algorithm works recursively creating a group of objects from the smallest possible component parts. Recursion is a procedure to solve a problem in which the solution to a specific problem is dependent on the solution of the smaller instance of that problem.
 
-
 #### Dynamic programming 
 
 Is an optimization technique, which divides the problem into smaller sub-problems and after solving each sub-problem, dynamic programming combines all the solutions to get ultimate solution. Unlike divide and conquer method, dynamic programming reuses the solution to the sub-problems many times.
@@ -120,7 +113,6 @@ Backtracking is an optimization technique to solve combinational problems. It is
 
 In backtracking, we start with a possible solution, which satisfies all the required conditions. Then we move to the next level and if that level does not produce a satisfactory solution, we return one level back and start with a new option.
 
-
 #### Branch and Bound
 
 Branch and bound algorithm  Is an optimization technique to get an optimal solution to the problem. It looks for the best solution for a given problem in the entire space of the solution. The bounds in the function to be optimized are merged with the value of the latest best solution. It allows the algorithm to find parts of the solution space completely.
@@ -135,7 +127,6 @@ Linear programming describes a wide class of optimization job where both the opt
 In this programming, we have a set of variables and we have to assign absolute values to them to satisfy a set of linear equations and to maximize or minimize a given linear objective function.
 
 ### Time Complexity
-
 
 #### Linear
 

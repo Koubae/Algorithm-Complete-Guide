@@ -1,2 +1,2 @@
-*Binary Search in Python 🐍*
+*DFS Depth-First-Search in Python 🐍*
 

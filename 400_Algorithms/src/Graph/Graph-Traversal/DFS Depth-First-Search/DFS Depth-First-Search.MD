@@ -1,19 +1,20 @@
+---
+tags:
+date: 1991-05-11
+---
 DFS Depth-First-Search
 ========
 
+Content
+---------------
 
 - [Depth-first search](https://en.wikipedia.org/wiki/Depth-first_search)
-
-
 * [DFS Depth-First-Search (Python 🐍)](./Python/DFS%20Depth-First-Search%20(Python%20🐍).md)
 * [BackTracking](./BackTracking/BackTracking.md)
 
 Documentation
 -------------
-
-
 ### Tree Traversals (Inorder, Preorder and Postorder)
-
 
 #### Inorder
 

@@ -9,6 +9,7 @@ tags:
   - unweighted-graph
   - graph-algorithm
   - dijkstra
+  - path-algorithms
 date: 2025-09-26
 ---
 

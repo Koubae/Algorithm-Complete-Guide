@@ -22,15 +22,12 @@ Documentation
 -------------
 
 
-
 Guide & Areas of Study
 -----------------------
 
 
 Terms & Keywords
 ----------------
-
-
 
 
 References

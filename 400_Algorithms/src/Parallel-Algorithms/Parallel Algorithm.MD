@@ -1,3 +1,9 @@
+---
+tags:
+  - algorithm
+  - parallel-algorithm
+date: 2025-09-26
+---
 Parallel Algorithm
 ========
 
@@ -5,6 +11,8 @@ A parallel algorithm is an algorithm that can execute several instructions simul
 
 while designing a parallel algorithm, **proper CPU utilization should be considered to get an efficient algorithm.**
 
+Content
+---------------
 
 Documentation
 -------------
