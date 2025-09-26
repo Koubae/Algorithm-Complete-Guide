@@ -1,19 +1,37 @@
 Algorithms & Data Structure Guide
 ========
 
-
+*Complete Developer Guide for Algorithms and Data-Structures | Implemented with multiple Programming Languages*
 
 > Computer science is the study of problems, problem-solving, and the solutions that come out of the problem-solving process.
 > Given a problem, a computer scientist’s goal is to develop an algorithm, a step-by-step list of instructions for solving any instance of the problem that might arise. 
 > Algorithms are finite processes that if followed will solve the problem. Algorithms are solutions.
 > **Credit:**  [Gerry Jenkins](#gerry-jenkins)
 
+Content
+--------------
+
+* [Notes](./100_Notes/Notes.md)
+* [Learn](./200_Learn/Learn.md)
+
+
+### About the project structure
+
+The project structure is quite opinionated especially due to the usage of [Obsidian](https://obsidian.md/), thanks to its [Graph View](https://help.obsidian.md/plugins/graph) helps you create mapping between related topic but it does require a specific/planned structure to work at scale.
+Furthermore, this Project has been written using different Tools and IDEs:
+
+* Markdown documentations: **[Obsidian](https://obsidian.md/)**
+* General Purpose: **[VS Code](https://code.visualstudio.com/)**
+* Python: PyCharm
+* Java: **[IntelliJ](https://www.jetbrains.com/idea/)**
+* Go: GoLand
+* C/C++: CLion
+
 
 ---
 
 Documentation
 ---------------------------
-
 
 * Search 
 * Insertion
@@ -137,103 +155,15 @@ In this programming, we have a set of variables and we have to assign absolute v
 
 Table in order from best to worst
 
-| Name         | Notation      |
-|--------------|---------------|
-| Constant     | O(1)          |
-| Logarithm    | O(log n)      |
-| Linear       | O(n)          | 
-| Quasilinear  | O(n log n)    |
-| Quadratic    | O(n²)         |
-| Cubic        | O(n³)         | 
-| Polynomial   | O(n^k)        | 
-| Exponential  | O(Xⁿ) / O(2ⁿ) | 
-| Factorial    | O(n!)         | 
-
----
-
-Guide & Areas of Study
------------------------
-
-
-- [Big O notation](https://en.wikipedia.org/wiki/Big_O_notation)
-
-- [Travelling salesman problem](https://en.wikipedia.org/wiki/Travelling_salesman_problem)
-
-- [Induced path | induced cycle | chordless cycles](https://en.wikipedia.org/wiki/Induced_path)
-
-- [Chordless Cycle](https://mathworld.wolfram.com/ChordlessCycle.html)
-
-- [Full-text search --WIKI--](https://en.wikipedia.org/wiki/Full-text_search)
-
-- [Approximate string matching --WIKI--](https://en.wikipedia.org/wiki/Approximate_string_matching)
-
-- [Avalanche effect](https://en.wikipedia.org/wiki/Avalanche_effect)
-
-- in-place or in-situ, algorithms.
-
-* [What Should You Learn First: Data Structures or Algorithms?](https://www.geeksforgeeks.org/what-should-i-learn-first-data-structures-or-algorithms/#:~:text=With%20all%20the%20cases%20put,without%20the%20knowledge%20of%20Algorithms.)
-**Quick answer: ** _Data Structure basic then Algorithms and keep study Data structure in the same time_
-
-
-* [Algorithms and Data Structures Cheatsheet | In Java](https://algs4.cs.princeton.edu/cheatsheet/)
-
----
-
-
-Visualizations
----------------
-
-* [visualgo](https://visualgo.net/en/list)
-* [codelike.in | linked-list](https://www.codelike.in/animation/linked-list)
-* [Bredth-First Search Visualization](https://www.cs.usfca.edu/~galles/visualization/BFS.html)
-
----
-
-Terms & Keywords
-----------------
-
-
-
-
----
-
-References
-----------
-
-- [Time Complexity Python](https://wiki.python.org/moin/TimeComplexity)
-
-###### Gerry Jenkins
-
-* [What Is Computer Science?](https://runestone.academy/runestone/books/published/pythonds3/Introduction/WhatIsComputerScience.html)
-
-**NOTE**
-
-Worth to check is Gerry Jenkins Playlist in YouTube, where he covers Algorithm, Data Structures and Computer Science focused around Python ---> [HERE](https://www.youtube.com/c/GerryJenkins)
-
----
-
-
-Projects
---------
-
-
-- [awesome-algorithms --GITHUB--](https://github.com/tayllan/awesome-algorithms)
-
-- [TheAlgorithms --GITHUB--](https://github.com/TheAlgorithms/Python)
-
-- [CookSheets-Algorithms --GITHUB--](https://github.com/simsekhalit/CookSheets-Algorithms)
-
-- [algorithms --GITHUB--](https://github.com/keon/algorithms)
-
-- [python-sortedcontainers --GITHUB--](https://github.com/grantjenks/python-sortedcontainers)
-
-- [Algorithm-visualizer](https://algorithm-visualizer.org/)
-
----
-
-Notes
------
-
-
-### [Books and Learning](learn_resources.md)
+| Name        | Notation      |     |
+| ----------- | ------------- | --- |
+| Constant    | O(1)          |     |
+| Logarithm   | O(log n)      |     |
+| Linear      | O(n)          |     |
+| Quasilinear | O(n log n)    |     |
+| Quadratic   | O(n²)         |     |
+| Cubic       | O(n³)         |     |
+| Polynomial  | O(n^k)        |     |
+| Exponential | O(Xⁿ) / O(2ⁿ) |     |
+| Factorial   | O(n!)         |     |
 

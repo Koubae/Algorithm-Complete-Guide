@@ -1,24 +1,7 @@
-Learn Resources 
-===============
+Videos
+========
 
-_A Collection of resources, books, videos, tutorial and more in order to learn Algorithms and DataStructures_
-
-
-* [7 Best Courses to learn Data Structure and Algorithms](https://medium.com/javarevisited/7-best-courses-to-learn-data-structure-and-algorithms-d5379ae2588)
-
-Platforms
----------
-
-* [algoexpert.io](https://www.algoexpert.io)
-* [hackerrank.com](https://www.hackerrank.com/)
-
-
-* [pluralsight.com | Algorithms and Data Structures - Part 1](https://www.pluralsight.com/courses/algorithms-data-structures-part-one)
-
-Video Tutorials
-----------------
-
-### Youtube
+### YouTube
 
 * [Algorithms and Data Structures Tutorial - Full Course for Beginners](https://www.youtube.com/watch?v=8hly31xKli0)
 * [Data Structures and Algorithms in Python - Full Course for Beginners](https://www.youtube.com/watch?v=pkYVOmU3MgA)
@@ -26,7 +9,6 @@ Video Tutorials
 * [Dynamic Programming - Learn to Solve Algorithmic Problems & Coding Challenges](https://www.youtube.com/watch?v=oBt53YbR9Kk)
 * [CS50 | Data structure Playlists](https://www.youtube.com/c/cs50/search?query=structure)
 * [Algorithms part 1 complete](https://www.youtube.com/watch?v=9diDWV-fOnE&t=1374s)
-
 
 ### Udemy 
 
@@ -39,13 +21,3 @@ Video Tutorials
 * [Amazon -- Data Structures and Algorithms](https://www.coursera.org/learn/developer-data-structures-and-algorithms)
 
 * [University Of Colorado -- Foundations of Data Structures and Algorithms Specialization](https://www.coursera.org/specializations/boulder-data-structures-algorithms)
-
-
-### Others
-
-* [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
-* [Data Structures and Algorithms | techdevguide.withgoogle.com](https://techdevguide.withgoogle.com/paths/data-structures-and-algorithms/)
-
-* [Data Structures Handbook Data Structures at your fingertips](https://www.thedshandbook.com/)
-* [tutorialspoint Data Structures & Algorithms - Quick Guide](https://www.tutorialspoint.com/data_structures_algorithms/dsa_quick_guide.htm)
-* [The Intuitive Guide to Data Structures And Algorithms](https://www.interviewcake.com/data-structures-and-algorithms-guide)
