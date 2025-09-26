@@ -19,6 +19,15 @@ Content
 
 * [Algorithms and Data Structures Cheatsheet | In Java](https://algs4.cs.princeton.edu/cheatsheet/)
 
+### Data Structures
+
+- [Data Structures and Algorithms | techdevguide.withgoogle.com](https://techdevguide.withgoogle.com/paths/data-structures-and-algorithms/) 
+- [Difference between Linear and Non-linear Data Structures](https://www.geeksforgeeks.org/difference-between-linear-and-non-linear-data-structures/)
+- [Infix, Prefix, and Postfix Expressions](https://runestone.academy/runestone/books/published/pythonds3/BasicDS/InfixPrefixandPostfixExpressions.html)
+- [Sierpiński triangle](https://en.wikipedia.org/wiki/Sierpi%C5%84ski_triangle)
+- [Data Structures | geeksforgeeks](https://www.geeksforgeeks.org/data-structures/)
+
+
 Related
 ----------------------------
 

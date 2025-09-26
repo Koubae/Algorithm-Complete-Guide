@@ -8,7 +8,7 @@ Content
 _A Collection of resources, books, videos, tutorial and more in order to learn Algorithms and Data-Structures_
 
 * [Books](Books.md)
-- [Guide & Areas of Study ](GuidesAndAreasOfStudy.md)
+- [Guide & Areas of Study ](Guides%20And%20Areas%20Of%20Study.md)
 - [Platforms](Platforms.md)
 - [Videos](Videos.md)
 

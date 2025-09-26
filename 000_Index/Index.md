@@ -5,7 +5,7 @@ Notes
 Content
 ---------------
 
-* [Templates](Templates.md)
+* [TemplatesOfTemplates](TemplatesOfTemplates.md)
 
 Related
 ----------------------------
