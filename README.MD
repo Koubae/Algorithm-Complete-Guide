@@ -15,6 +15,8 @@ Content
 * [Notes](./100_Notes/Notes.md)
 * [Learn](./200_Learn/Learn.md)
 * [Data Structures](./300_Data-Structures/Data%20Structures.md)
+* [Algorithms](./400_Algorithms/Algorithms.md)
+
 
 ### About the project structure
 

@@ -130,7 +130,7 @@ Parallel
 Gaming 
 ------
 
-* [Bouncing Algorithms](src/Gaming/bouncing_algorithm.py)
+* [Bouncing Algorithms](bouncing_algorithm.py)
 
 
 General Purpose
