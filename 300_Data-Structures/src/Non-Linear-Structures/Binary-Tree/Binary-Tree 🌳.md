@@ -1,5 +1,21 @@
-Binary Trees
+---
+tags:
+  - trees
+  - binary-tree
+date: 1991-05-11
+---
+Binary Trees 🌳
 ========
+
+
+Content
+---------------
+
+* [Binary-Tree (Python 🐍)](./Python/Binary-Tree%20(Python%20🐍).md)
+
+Related
+----------------------------
+
 
 
 Documentation

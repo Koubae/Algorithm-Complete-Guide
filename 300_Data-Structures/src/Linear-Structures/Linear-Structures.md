@@ -14,7 +14,7 @@ tags:
   - string
   - FIFO
   - LIFO
-date: 1991-05-11
+date: 2026-09-26
 ---
 Linear-Structures
 =========

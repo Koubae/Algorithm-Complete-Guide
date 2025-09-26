@@ -16,6 +16,7 @@ Content
 
 * [Type of Data Structures](Data%20Structures%20Types.md)
 * [Linear-Structures](./src/Linear-Structures/Linear-Structures.md)
+* [Non-Linear-Structures](./src/Non-Linear-Structures/Non-Linear-Structures.md)
 
 What is a Data Structure
 -------------------------------------------
