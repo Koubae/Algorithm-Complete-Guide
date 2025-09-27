@@ -8,3 +8,9 @@ sync:
 	git status
 
 
+### ------------
+# Pyton
+### ------------
+py-venv:
+	python -m venv .venv
+	 .\.venv\Scripts\activate
