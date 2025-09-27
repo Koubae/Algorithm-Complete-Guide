@@ -23,7 +23,12 @@ Content
 	* [# course1_algorithmic_toolbox](https://disk.yandex.ru/d/o8E3OPP7rKjXP)
 
 
-Related
+Scripts
 ----------------------------
 
+
+#### Sum of Two Digits
+
+* [sum_two_digits.py](./src/sum_of_two_digits/sum_two_digits.py)
+* [sum_two_digits.java](./src/sum_of_two_digits/sum_two_digits.java)
 
