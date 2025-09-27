@@ -10,7 +10,7 @@ _A Collection of resources, books, videos, tutorial and more in order to learn A
 * [Books](Books.md)
 - [Guide & Areas of Study ](Guides%20And%20Areas%20Of%20Study.md)
 - [Platforms](Platforms.md)
-- [Videos](Videos.md)
+- [Videos & Online Courses](Videos%20&%20Online%20Courses.md)
 
 Related
 ----------------------------

@@ -1,4 +1,4 @@
-Videos
+Videos & Online Courses
 ========
 
 Content
@@ -12,6 +12,8 @@ Content
 * [Dynamic Programming - Learn to Solve Algorithmic Problems & Coding Challenges](https://www.youtube.com/watch?v=oBt53YbR9Kk)
 * [CS50 | Data structure Playlists](https://www.youtube.com/c/cs50/search?query=structure)
 * [Algorithms part 1 complete](https://www.youtube.com/watch?v=9diDWV-fOnE&t=1374s)
+* [Ace Your Next Coding Interview](https://www.youtube.com/@acecodinginterview)
+	* [Leonhard Euler meets genome sequencing](https://www.youtube.com/watch?v=XGW6jFyNjTY)
 
 ### Udemy 
 
@@ -20,10 +22,15 @@ Content
 ### Coursera 
 
 * [University of California San Diego -- Data Structures and Algorithms Specialization](https://www.coursera.org/specializations/data-structures-algorithms)
+	* [Ace Your Next Coding Interview by Learning Algorithms](https://cogniterra.org/course/24/promo)
 * [University of California San Diego -- Object Oriented Java Programming: Data Structures and Beyond Specialization](https://www.coursera.org/specializations/java-object-oriented)
 * [Amazon -- Data Structures and Algorithms](https://www.coursera.org/learn/developer-data-structures-and-algorithms)
 
 * [University Of Colorado -- Foundations of Data Structures and Algorithms Specialization](https://www.coursera.org/specializations/boulder-data-structures-algorithms)
+
+#### Mathematics
+
+* [Introduction to Discrete Mathematics for Computer Science Specialization](https://www.coursera.org/specializations/discrete-mathematics)
 
 Related
 ----------------------------

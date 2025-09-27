@@ -51,6 +51,9 @@ Asymptotic notation is the easiest way to describe the fastest and slowest possi
 - Most Recently Used (MRU)
 - Asymptotic Analysis 
 - fractal vocabulary *something that looks the same at all different levels of magnification*
+- **discrete mathematics**
+	- **proof by induction
+	- **proof by contradiction**
 
 
 Related
