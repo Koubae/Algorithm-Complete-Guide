@@ -54,7 +54,16 @@ Asymptotic notation is the easiest way to describe the fastest and slowest possi
 - **discrete mathematics**
 	- **proof by induction
 	- **proof by contradiction**
+- [Euclidean algorithm](https://en.wikipedia.org/wiki/Euclidean_algorithm)
 
+### Asymptotic notation
+
+* Bachmann–Landau notation or asymptotic notation.
+* [Big O notation](https://en.wikipedia.org/wiki/Big_O_notation)
+* [Asymptotic Analysis (geeksforgeeks)](https://www.geeksforgeeks.org/dsa/asymptotic-notation-and-analysis-based-on-input-size-of-algorithms/)
+* [Asymptotic Notations for Analysis of Algorithms (geeksforgeeks)](https://www.geeksforgeeks.org/dsa/types-of-asymptotic-notations-in-complexity-analysis-of-algorithms/)
+* [Simple explanation of Asymptotic Notation!](https://www.youtube.com/watch?v=5O6f1GTLLeQ)
+* **asymptotic growth comparison** --> ⪯ vs **exact inequality** (math) ≤
 
 Related
 ----------------------------
