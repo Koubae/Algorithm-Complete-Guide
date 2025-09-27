@@ -15,6 +15,10 @@ Content
 * [Ace Your Next Coding Interview](https://www.youtube.com/@acecodinginterview)
 	* [Leonhard Euler meets genome sequencing](https://www.youtube.com/watch?v=XGW6jFyNjTY)
 
+**To Watch**
+
+* [Fibonacci Heaps or "How to invent an extremely clever data structure"](https://www.youtube.com/watch?v=6JxvKfSV9Ns)
+
 ### Udemy 
 
 * [Data Structures and Algorithms: In-Depth using Python](https://www.udemy.com/course/learning-data-structures-algorithms-in-python-from-scratch/?ranMID=39197&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-21dLyudtMRj8mXo5W6422g&LSNPUBID=JVFxdTr9V80&utm_source=aff-campaign&utm_medium=udemyads)

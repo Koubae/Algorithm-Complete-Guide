@@ -14,6 +14,7 @@ Content
 * [Index](./000_Index/Index.md)
 * [Notes](./100_Notes/Notes.md)
 * [Learn](./200_Learn/Learn.md)
+* [Courses](./250_Courses/Courses.md)
 * [Data Structures](./300_Data-Structures/Data%20Structures.md)
 * [Algorithms](./400_Algorithms/Algorithms.md)
 
