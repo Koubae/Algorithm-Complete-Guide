@@ -55,6 +55,7 @@ Asymptotic notation is the easiest way to describe the fastest and slowest possi
 	- **proof by induction
 	- **proof by contradiction**
 - [Euclidean algorithm](https://en.wikipedia.org/wiki/Euclidean_algorithm)
+- Pisano periods
 
 ### Asymptotic notation
 
@@ -63,6 +64,8 @@ Asymptotic notation is the easiest way to describe the fastest and slowest possi
 * [Asymptotic Analysis (geeksforgeeks)](https://www.geeksforgeeks.org/dsa/asymptotic-notation-and-analysis-based-on-input-size-of-algorithms/)
 * [Asymptotic Notations for Analysis of Algorithms (geeksforgeeks)](https://www.geeksforgeeks.org/dsa/types-of-asymptotic-notations-in-complexity-analysis-of-algorithms/)
 * [Simple explanation of Asymptotic Notation!](https://www.youtube.com/watch?v=5O6f1GTLLeQ)
+* [KhanAcademi Asymptotic Notation](https://www.khanacademy.org/computing/computer-science/algorithms/asymptotic-notation/a/asymptotic-notation)
+
 * **asymptotic growth comparison** --> ⪯ vs **exact inequality** (math) ≤
 
 Related

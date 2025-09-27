@@ -60,6 +60,22 @@ gcd(3_918_848, 1_653_264) == 61_232
 
 * [Euclidean algorithm](https://en.wikipedia.org/wiki/Euclidean_algorithm)
 
+#### Big-O Plots
+
+* [1_big_o_notation.py](./src/bigO_Notations_Plots/1_big_o_notation.py)
+
+
+#### Graded Assignment 1
+
+* 1 [fibonacci.py](./src/graded_assignment_1/fibonacci.py)
+* 2 [fibonacci_last_digit.py](./src/graded_assignment_1/fibonacci_last_digit.py)
+* 3 [gcd.py](./src/graded_assignment_1/gcd.py)
+* 4 [lcm.py](./src/graded_assignment_1/lcm.py)
+* 5 [fibonacci_huge.py](./src/graded_assignment_1/fibonacci_huge.py)
+* 6 [fibonacci_sum_last_digit.py](./src/graded_assignment_1/fibonacci_sum_last_digit.py)
+* 7 [fibonacci_partial_sum.py](./src/graded_assignment_1/fibonacci_partial_sum.py)
+* 8 [fibonacci_sum_squares.py](./src/graded_assignment_1/fibonacci_sum_squares.py)
+
 Notes
 -----------
 
@@ -69,6 +85,7 @@ Notes
 
 * [Fibonacci sequence](https://en.wikipedia.org/wiki/Fibonacci_sequence)
 
+* Pisano periods
 
 ### Asymptotic notation
 
@@ -77,9 +94,12 @@ Notes
 * [Asymptotic Analysis (geeksforgeeks)](https://www.geeksforgeeks.org/dsa/asymptotic-notation-and-analysis-based-on-input-size-of-algorithms/)
 * [Asymptotic Notations for Analysis of Algorithms (geeksforgeeks)](https://www.geeksforgeeks.org/dsa/types-of-asymptotic-notations-in-complexity-analysis-of-algorithms/)
 * [Simple explanation of Asymptotic Notation!](https://www.youtube.com/watch?v=5O6f1GTLLeQ)
+* [KhanAcademi Asymptotic Notation](https://www.khanacademy.org/computing/computer-science/algorithms/asymptotic-notation/a/asymptotic-notation)
+
 * **asymptotic growth comparison** --> ⪯ vs **exact inequality** (math) ≤
 
 ![[o_annotation_hierachy_example.png]]
+![[big_o_hierachy_2.png]]
 #### Big-O Notation
 
 ``` bash
@@ -320,3 +340,4 @@ Three important remarks.
    Hence, for example, $5n^2 \nleq n^2$, but $5n^2 \preceq n^2$.
 
 
+![[logarithms_rules.png]]
