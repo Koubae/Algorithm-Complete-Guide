@@ -13,6 +13,7 @@ FreeCodeCamp Courses
 
 * [Playlist](https://www.youtube.com/watch?v=RBSGKlAvoiM&list=PLUzvZMEoR0KvEthotRQR3qoJ5FJxkhvaP)
 * [Algorithms and Data Structures Tutorial - Full Course for Beginners](https://www.youtube.com/watch?v=8hly31xKli0)
+* [Binary Tree Algorithms for Technical Interviews - Full Course](https://www.youtube.com/watch?v=fAAZixBzIAI&t=1925s)
 * [Data Structure and Algorithm Patterns for LeetCode Interviews – Tutorial](https://www.youtube.com/watch?v=Z_c4byLrNBU&t=10s)
 * [Data Structures Easy to Advanced Course - Full Tutorial from a Google Engineer](https://www.youtube.com/watch?v=RBSGKlAvoiM)
 

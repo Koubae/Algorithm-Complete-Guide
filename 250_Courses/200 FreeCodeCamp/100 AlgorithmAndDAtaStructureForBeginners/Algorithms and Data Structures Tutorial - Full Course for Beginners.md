@@ -18,6 +18,7 @@ Content
 
 * [linear_search.py](./src/linear_search/linear_search.py)
 * [binary_search.py](./src/binary_search/binary_search.py)
+* [merge_sort.py](./src/merge_sort/merge_sort.py)
 
 #### Data Structures
 
@@ -55,6 +56,9 @@ math.log2(16) + 1 == 5.0
 * Singly-Linked-List
 * Doubly-Linked-List
 
+#### Merge Sort
+
+* Divide & Conquer
 
 Keywords
 -----------------
