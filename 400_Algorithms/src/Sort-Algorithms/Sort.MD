@@ -16,12 +16,14 @@ Sort-Algorithms
 Content
 ---------------
 
-* [QuickSort](./QuickSort/QuickSort.md)
-* [MergeSort](./MergeSort/MergeSort.md)
-* [HeapSort](./HeapSort/HeapSort.md)
 * [BubbleSort](./BubbleSort/BubbleSort.md)
-* [InsertionSort](./InsertionSort/InsertionSort.md)
 * [SelectionSort](./SelectionSort/SelectionSort.md)
+* [InsertionSort](./InsertionSort/InsertionSort.md)
+* Binary Sort
+* [MergeSort](./MergeSort/MergeSort.md)
+* [QuickSort](./QuickSort/QuickSort.md)
+* [HeapSort](./HeapSort/HeapSort.md)
+
 
 Algorithms
 -------------

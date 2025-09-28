@@ -19,6 +19,8 @@ Content
 * [linear_search.py](./src/linear_search/linear_search.py)
 * [binary_search.py](./src/binary_search/binary_search.py)
 * [merge_sort.py](./src/merge_sort/merge_sort.py)
+* [quicksort.py](./src/quicksort/quicksort.py)
+* [recurision.py](./src/recursion/recurision.py)
 
 #### Data Structures
 
@@ -59,6 +61,16 @@ math.log2(16) + 1 == 5.0
 #### Merge Sort
 
 * Divide & Conquer
+
+
+### Sort Algorithm
+
+* bubble sort
+* insertion sort
+* selection sort
+* binary sort
+* merge sort 
+* quick sort
 
 Keywords
 -----------------
