@@ -17,6 +17,8 @@ Challenges 2025_09
     * Python 🐍 [best_time_to_buy_and_sell_stock.py](best_time_to_buy_and_sell_stock.py)
   * [146. LRU Cache](https://leetcode.com/problems/lru-cache/description/)
     * Python 🐍 [lru_cache.py](./lru_cache.py)
+  * [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/)
+    *  Python 🐍 [valid_parentheses.py](valid_parentheses.py)
 
 Content
 ---------------
