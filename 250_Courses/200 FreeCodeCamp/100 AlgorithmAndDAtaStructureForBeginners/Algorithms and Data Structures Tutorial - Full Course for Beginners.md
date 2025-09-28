@@ -19,6 +19,10 @@ Content
 * [linear_search.py](./src/linear_search/linear_search.py)
 * [binary_search.py](./src/binary_search/binary_search.py)
 
+#### Data Structures
+
+* [linked_list.py](./src/data_structures/linked_list.py)
+
 Notes
 -----------
 
@@ -32,6 +36,25 @@ import math
 
 math.log2(16) + 1 == 5.0
 ```
+### Data Structures
+
+**Operations**
+
+* Access / Read
+* Insert / Write
+* Search
+* Delete
+#### Array
+
+* Homogeneous Containers (Only stores 1 data type) vs Heterogeneous Structures (Mix multiple data type)
+* Index
+* head --> pointer 
+
+#### Linked-List
+
+* Singly-Linked-List
+* Doubly-Linked-List
+
 
 Keywords
 -----------------
@@ -42,6 +65,9 @@ Keywords
 * Constant | Logarithm | Linear | Quadratic | Cubic | Quasi-Linear /  ["linearithmic"](http://en.wikipedia.org/wiki/Time_complexity#Linearithmic.2Fquasilinear_time) | Polynomial | Exponential | Factorial / Combinatorial  
 * Brute Force
 * Traveling Salesman
+* Homogeneous Containers (Only stores 1 data type)
+* Heterogeneous Structures (Mix multiple data type)
+* [Ammortized Constant Space Complexity](https://stackoverflow.com/questions/200384/what-is-constant-amortized-time)
 
 
 ****

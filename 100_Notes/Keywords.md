@@ -57,6 +57,10 @@ Asymptotic notation is the easiest way to describe the fastest and slowest possi
 - [Euclidean algorithm](https://en.wikipedia.org/wiki/Euclidean_algorithm)
 - Pisano periods
 - Traveling Salesman
+- Homogeneous Containers (Only stores 1 data type)
+* Heterogeneous Structures (Mix multiple data type)
+* [Ammortized Constant Space Complexity](https://stackoverflow.com/questions/200384/what-is-constant-amortized-time)
+
 
 ### Asymptotic notation
 
