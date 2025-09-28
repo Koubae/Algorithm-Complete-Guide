@@ -16,15 +16,17 @@ Algorithmic Toolbox
 Content
 ---------------
 
-
 ### Resources
 
 * [ToolBocx Statements](./toolbox_statements.pdf)
 	* [# course1_algorithmic_toolbox](https://disk.yandex.ru/d/o8E3OPP7rKjXP)
 
-
 Scripts
 ----------------------------
+
+* [josephus_problem.py](./src/josephus_problem/josephus_problem.py)
+    * [Josephus Calculator](https://www.geogebra.org/m/ExvvrBbR)
+    * https://rosettacode.org/wiki/Josephus_problem
 
 
 #### Sum of Two Digits
