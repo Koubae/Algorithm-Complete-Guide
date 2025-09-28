@@ -1,16 +1,5 @@
 import time
 
-def main():
-    a = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
-
-    for t in (8, 1, 4, 19, 20, 14):
-        i = binary_search(a, t)
-        print(f"Found at index {i} t={t} \ta={a}")
-        time.sleep(.3)
-
-class BinarySearchNotFound(Exception):
-    pass
-
 def binary_search(a: list[int], t: int) -> int:
     i = -1
     n = len(a)
@@ -33,6 +22,17 @@ def binary_search(a: list[int], t: int) -> int:
 
     return i
 
+
+class BinarySearchNotFound(Exception):
+    pass
+
+def main():
+    a = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
+
+    for t in (8, 1, 4, 19, 20, 14):
+        i = binary_search(a, t)
+        print(f"Found at index {i} t={t} \ta={a}")
+        time.sleep(.3)
 
 if __name__ == '__main__':
     main()

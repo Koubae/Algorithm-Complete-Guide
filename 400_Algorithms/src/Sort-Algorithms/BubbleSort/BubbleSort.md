@@ -11,6 +11,8 @@ Bubble Sort
 Content
 ---------------
 
+* [BubbleSort in Go 🦫](./go/BubbleSort%20(Go%20🦫).md)
+  * [bubble_sort.go](./go/bubble_sort.go)
 
 Related
 ----------------------------

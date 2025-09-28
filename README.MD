@@ -19,6 +19,17 @@ Content
 * [Algorithms](./400_Algorithms/Algorithms.md)
 
 
+### Languages
+
+* Python 🐍
+* Java ☕
+* C/C++ ©️
+* Go 🦫
+* Javascript/Typescript + Node 🟡🔵🟢
+* PHP 🐘
+* Rust 🦀
+* Zig ⚡️
+
 ### About the project structure
 
 The project structure is quite opinionated especially due to the usage of [Obsidian](https://obsidian.md/), thanks to its [Graph View](https://help.obsidian.md/plugins/graph) helps you create mapping between related topic but it does require a specific/planned structure to work at scale.
