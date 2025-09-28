@@ -11,7 +11,7 @@ Challenges
 Content
 ---------------
 
-* [Findcheck-Anagram](./Find_check-Anagram/Findcheck-Anagram.md)
+* [Findcheck-Anagram](old/Find_check-Anagram/Findcheck-Anagram.md)
 
 
 Related
