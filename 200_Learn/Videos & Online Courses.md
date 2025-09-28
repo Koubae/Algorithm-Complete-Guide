@@ -19,6 +19,17 @@ Content
 
 * [Fibonacci Heaps or "How to invent an extremely clever data structure"](https://www.youtube.com/watch?v=6JxvKfSV9Ns)
 
+#### Crash Courses | Full Courses
+
+* [Algorithms & Data Structures Full Crash Course](https://www.youtube.com/watch?v=jQqQpPMYPXs)
+
+**FreeCodeCamp**
+
+* [Playlist](https://www.youtube.com/watch?v=RBSGKlAvoiM&list=PLUzvZMEoR0KvEthotRQR3qoJ5FJxkhvaP)
+* [Algorithms and Data Structures Tutorial - Full Course for Beginners](https://www.youtube.com/watch?v=8hly31xKli0)
+* [Data Structure and Algorithm Patterns for LeetCode Interviews – Tutorial](https://www.youtube.com/watch?v=Z_c4byLrNBU&t=10s)
+* [Data Structures Easy to Advanced Course - Full Tutorial from a Google Engineer](https://www.youtube.com/watch?v=RBSGKlAvoiM)
+
 ### Udemy 
 
 * [Data Structures and Algorithms: In-Depth using Python](https://www.udemy.com/course/learning-data-structures-algorithms-in-python-from-scratch/?ranMID=39197&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-21dLyudtMRj8mXo5W6422g&LSNPUBID=JVFxdTr9V80&utm_source=aff-campaign&utm_medium=udemyads)
