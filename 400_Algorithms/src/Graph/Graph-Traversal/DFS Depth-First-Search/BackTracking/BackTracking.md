@@ -20,17 +20,6 @@ Typical problems
 ----------------
 
 * The Knight’s tour problem
-BackTracking
-=========
-
-Content
----------------
-
-
-Related
-----------------------------
-
-
 
 > [Python](https://github.com/Koubae/Algorithm-Complete-Guide/blob/master/Graph-Algorithms/Depth-First-Search/BackTracking/Python/n_queens_on_NxN_chessboard_1.py)
 
@@ -44,35 +33,25 @@ Related
 
 * Sudoku
 
-
-
 Documentation
 -------------
 
 You must first understand how [**Recursive programming**](https://en.wikipedia.org/wiki/Recursion_(computer_science)) works!
-
 Backtrackin is basically a [Depth-First order](https://en.wikipedia.org/wiki/Depth-first_search) algorithm
-
 In backtracking, we first start with a partial sub-solution of the problem (which may or may not lead us to the solution) and then check if we can proceed further with this sub-solution or not. If not, then we just come back and change it.
 
 #### PERFORMANCE  O( | V | * | E | ) 
 
 * Time Complexity: O(2^(n^2)) can run upperbound 2^(n^2) times
-
 * Space Complexity: O(n^2)  extra space of size n*n is needed.
-
 
 **The total cost of the algorithm** is the number of nodes of the actual tree times the cost of obtaining and processing each node. This fact should be considered when choosing the potential search tree and implementing the pruning test. 
 
 General steps:
 
 1. Start with a sub-solution.
-
 2. Check if this sub-solution will lead to the solution or not.
-
-3. If not, then come back and change the sub-solution and loop recursevely until you find the solution.
-
-
+3. If not, then come back and change the sub-solution and loop recursively until you find the solution.
 
 
 ### Rat in a maze
@@ -83,11 +62,9 @@ General steps:
     2. [Rat_in_maze_2](https://github.com/Koubae/Algorithm-Complete-Guide/blob/master/Graph-Algorithms/Depth-First-Search/BackTracking/Python/rat_in_maze2.py)
     
 - C
-
 - Java
 
 The Start Position is always the Top-left corner, the Destination The Right Bottom Corner.
-
 
 
 How we approach the problem:
@@ -102,36 +79,12 @@ Similarly, if we can't move up as well, we will simply move to the left cell.
 
 4. If none of the four moves (down, right, up, or left) are possible, we will simply move back and change our current path (backtracking).
 
------------------------------------------------------------------------------------------------------
-
-Guide & Areas of Study
------------------------
-
-
-
------------------------------------------------------------------------------------------------------
 
 Terms & Keywords
 ----------------
 
 * Subsets
-
 * Combinations
-
 * Permutations
-
 * [Tree structure](https://en.wikipedia.org/wiki/Tree_structure)
-
 * *potential search tree*
-* 
------------------------------------------------------------------------------------------------------
-
-References
-----------
-
-
-
------------------------------------------------------------------------------------------------------
-
-Notes
------

@@ -42,7 +42,6 @@ Content
 Documentation | Guide & Areas of Study
 -----------------------
 
-
 The following two are the most commonly used representations of a graph:
 
 1. Adjacency Matrix
@@ -81,7 +80,6 @@ Graph = [
 - [Adjacency list WIKI](https://en.wikipedia.org/wiki/Adjacency_list)
 
 adjacency list is a collection of unordered lists used to represent a finite graph. 
-
 
 ### Spanning Tree & Minimum Spanning Tree
 

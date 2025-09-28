@@ -40,7 +40,7 @@ Since all of ​the nodes and vertices are visited, the time complexity for BFS 
 
 > Simple demo:
 
-```
+```python
 
 GRAPH ={
     'a': ['b', 'c'],
@@ -98,22 +98,16 @@ Guide & Areas of Study
 
 - Copying [garbage collection](https://en.wikipedia.org/wiki/Garbage_collection_(computer_science)) 
 - [Cheney's algorithm](https://en.wikipedia.org/wiki/Cheney%27s_algorithm)
-
 - Finding the shortest path between two nodes u and v, with path length measured by number of edges (an advantage over depth-first search)
-
 - [(Reverse) Cuthill–McKee mesh numbering](https://en.wikipedia.org/wiki/Cuthill%E2%80%93McKee_algorithm)
-
 - [Ford–Fulkerson method](https://en.wikipedia.org/wiki/Ford%E2%80%93Fulkerson_algorithm) for computing the [maximum flow](https://en.wikipedia.org/wiki/Maximum_flow_problem) in a [flow network](https://en.wikipedia.org/wiki/Flow_network)
-
 - Serialization/Deserialization of a binary tree vs serialization in sorted order, allows the tree to be re-constructed in an efficient manner.
-
 - Construction of the failure function of the [Aho-Corasick](https://en.wikipedia.org/wiki/Aho-Corasick) pattern matcher.
-
 - Testing [bipartiteness of a graph](https://en.wikipedia.org/wiki/Bipartite_graph#Testing_bipartiteness)
 
 PSEUDOCODE
 
-```
+```bash
 procedure BFS(G, v) is
     create a queue Q
     enqueue v onto Q
@@ -135,35 +129,25 @@ Terms & Keywords
 ----------------
 
 * queue (First In First Out
-
 * [Stack (abstract data type) WIKI](https://en.wikipedia.org/wiki/Stack_(abstract_data_type)) 
-
 * [Branching factor](https://en.wikipedia.org/wiki/Branching_factor)
-
 *  adjacency list | adjacency matrix
-
 * [Implicit graph](https://en.wikipedia.org/wiki/Implicit_graph)
-
 * BFS ordering
 
 References
 ----------
 
 - [Breadth First Search or BFS for a Graph](https://www.geeksforgeeks.org/breadth-first-search-or-bfs-for-a-graph/)
-
 - [Level Order Binary Tree Traversal](https://www.geeksforgeeks.org/level-order-tree-traversal/)
-
 - [Component (graph theory)](https://en.wikipedia.org/wiki/Component_(graph_theory))
-
 - [Routing (electronic design automation)](https://en.wikipedia.org/wiki/Routing_(electronic_design_automation))
 
 Notes
 -----
-
 
 In a **Breadth First search** if you instead of a Queue you use a **Priority Queue** and define a sorting function on the nodes such that the node with the lowest cost is at the top of the Priority Queue you basically are doing a **Dijkstra (Heap method)**
 
  This allows us to find the best path through a graph in O(m * log(n)) time where n is the number of vertices and m is the number of edges in the graph.
 
  - [Source](https://www.topcoder.com/community/competitive-programming/tutorials/introduction-to-graphs-and-their-data-structures-section-3/)
-
