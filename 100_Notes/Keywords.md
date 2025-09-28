@@ -56,6 +56,7 @@ Asymptotic notation is the easiest way to describe the fastest and slowest possi
 	- **proof by contradiction**
 - [Euclidean algorithm](https://en.wikipedia.org/wiki/Euclidean_algorithm)
 - Pisano periods
+- Traveling Salesman
 
 ### Asymptotic notation
 
