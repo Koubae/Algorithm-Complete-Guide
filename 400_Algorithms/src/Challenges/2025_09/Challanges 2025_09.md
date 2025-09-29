@@ -19,6 +19,11 @@ Challenges 2025_09
     * Python 🐍 [lru_cache.py](./lru_cache.py)
   * [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/)
     *  Python 🐍 [valid_parentheses.py](valid_parentheses.py)
+  * [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+    * Python 🐍 [3_longest_sub_string_no_rep_char.py](3_longest_sub_string_no_rep_char.py)
+  * [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/description/)
+    * Python 🐍 [56_merge_intervals.py](56_merge_intervals.py)
+
 
 Content
 ---------------
