@@ -37,6 +37,8 @@ Content
   * Segment Tree Operations
   * Fenwick Tree (Binary Indexed Tree)
 
+- Preorder, Inorder, Postorder = **flavors of DFS**
+- Level-order = **BFS**
 
 ### Scripts
 
