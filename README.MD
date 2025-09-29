@@ -17,7 +17,7 @@ Content
 * [Courses](./250_Courses/Courses.md)
 * [Data Structures](./300_Data-Structures/Data%20Structures.md)
 * [Algorithms](./400_Algorithms/Algorithms.md)
-
+    * [Common Algorithms](./400_Algorithms/src/Common/Common%20Algorithms.md)
 
 ### Languages
 

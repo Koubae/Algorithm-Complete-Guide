@@ -14,7 +14,7 @@ Content
 ### Core Algorithms
 
 * [Algorithms Types](Algorithms%20Types.md)
-
+* [Common Algorithms](./src/Common/Common%20Algorithms.md)
 
 * [Graph](./src/Graph/Graph%20Algorithms.md)
   * Graph-Traversal
