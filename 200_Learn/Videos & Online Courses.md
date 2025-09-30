@@ -31,6 +31,8 @@ Content
 * [Data Structure and Algorithm Patterns for LeetCode Interviews – Tutorial](https://www.youtube.com/watch?v=Z_c4byLrNBU&t=10s)
 * [Data Structures Easy to Advanced Course - Full Tutorial from a Google Engineer](https://www.youtube.com/watch?v=RBSGKlAvoiM)
 
+* [Dynamic Programming with Java – Learn to Solve Algorithmic Problems & Coding Challenges](https://www.youtube.com/watch?v=oFkDldu3C_4)
+
 ### Udemy 
 
 * [Data Structures and Algorithms: In-Depth using Python](https://www.udemy.com/course/learning-data-structures-algorithms-in-python-from-scratch/?ranMID=39197&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-21dLyudtMRj8mXo5W6422g&LSNPUBID=JVFxdTr9V80&utm_source=aff-campaign&utm_medium=udemyads)

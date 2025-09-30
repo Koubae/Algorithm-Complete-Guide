@@ -62,15 +62,14 @@ Adjacency Matrix is a 2D array of size V x V where V is the number of vertices i
 - Edge = adj[i][j] = 1 | Edge / Path from i to j.
 - Weigthted Graph = adj[i][j] = w (n)
 
-``` bash
+```python
 Graph = [
-    [0, 1, 0, 0, 1]  # Node 1
-    [1, 0, 1, 1, 1]  # Node 2
-    [0, 1, 0, 1, 0]  # Node 3
-    [0, 1, 1, 0, 1]  # Node 4
-    [1, 1, 0, 1, 0]  # Node 5
-
-     1  2  3  4  5
+    [0, 1, 0, 0, 1],  # Node 1
+    [1, 0, 1, 1, 1],  # Node 2
+    [0, 1, 0, 1, 0],  # Node 3
+    [0, 1, 1, 0, 1],  # Node 4
+    [1, 1, 0, 1, 0],  # Node 5
+    # 1  2  3  4  5
 ]
 ```
 
@@ -80,6 +79,17 @@ Graph = [
 - [Adjacency list WIKI](https://en.wikipedia.org/wiki/Adjacency_list)
 
 adjacency list is a collection of unordered lists used to represent a finite graph. 
+
+```python
+graph = {
+    'A': {'B', 'C'},
+    'B': {'A', 'D', 'E'},
+    'C': {'A', 'F'},
+    'D': {'B'},
+    'E': {'B', 'F'},
+    'F': {'C', 'E'}
+}
+```
 
 ### Spanning Tree & Minimum Spanning Tree
 
@@ -111,6 +121,74 @@ A minimum spanning tree is a spanning tree in which the sum of the weight of the
 - Prim's Algorithm
 - Kruskal's Algorithm
 - Dijkstra's Algorithm
+
+#### 1. **Understand What a Graph Is**
+
+✅ **Order of study:**
+
+1. Representation → Adjacency list vs matrix    
+2. Traversals → DFS, BFS    
+3. Shortest path → BFS (unweighted), Dijkstra (weighted)    
+4. MST → Kruskal, Prim
+5. Topological sort & SCC    
+6. Network flow & advanced stuff
+
+A graph is made of:
+
+- **Vertices (nodes)** → the “things”    
+- **Edges (links)** → the “relationships”
+    
+
+👉 Graphs can be:
+
+- **Directed** vs **Undirected*    
+- **Weighted** (edge has a cost) vs **Unweighted**    
+- **Sparse** (few edges) vs **Dense** (many edges)    
+- Can contain **cycles** or be **acyclic**
+    
+
+**Start by learning representations:**
+
+- **Adjacency List** → efficient for sparse graphs    
+- **Adjacency Matrix** → easy but heavy on memory
+
+#### 2. **Basic Traversals**
+
+Before anything else, master how to “walk” a graph:
+
+- **DFS (Depth First Search)** → go as deep as possible first    
+- **BFS (Breadth First Search)** → visit neighbours level by level
+    
+
+👉 These form the foundation for almost everything else.  
+Practice detecting:
+
+- Reachability (is node A connected to node B?)    
+- Connected components    
+- Cycle detection (directed vs undirected)
+#### 3. **Shortest Path Algorithms**
+
+After traversals, move to paths:
+
+- **Unweighted graphs** → BFS finds shortest path    
+- **Weighted graphs**:    
+    - **Dijkstra’s Algorithm** → non-negative weights        
+    - **Bellman–Ford** → handles negative weights        
+    - **Floyd–Warshall** → all-pairs shortest paths        
+    - **A*** → heuristic-based (used in GPS, games)
+
+#### 4. **Minimum Spanning Trees (MST)**
+
+For connecting all nodes with minimal cost:
+- **Kruskal’s Algorithm**    
+- **Prim’s Algorithm**
+#### 5. **Advanced Topics**
+
+- **Topological Sort** (ordering tasks with dependencies)    
+- **Strongly Connected Components** (Tarjan’s or Kosaraju’s)    
+- **Network Flow / Max Flow (Ford-Fulkerson, Edmonds-Karp)** → scheduling, matching problems
+- **Graph coloring, bipartite graphs**    
+- **Union-Find (Disjoint Set Union - DSU)** → useful for Kruskal’s, connectivity checks
 
 
 Terms & Keywords
