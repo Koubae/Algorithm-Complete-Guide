@@ -27,7 +27,13 @@ Challenges 2025_09
     * Python 🐍 [94_binary_tree_traversal.py](94_binary_tree_traversal.py)
   * [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/)
     * Python 🐍 [226_invert_binary_tree.py](226_invert_binary_tree.py)
-
+  * [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/)  
+  * [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/description/)
+    * Python 🐍 [49_group_anagrams.py](49_group_anagrams.py)
+  * [200. Number of Islands](https://leetcode.com/problems/number-of-islands/description/)
+    * Python 🐍 [200_number_of_islands.py](200_number_of_islands.py)
+  * [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/)
+  * [15. 3Sum](https://leetcode.com/problems/3sum/description/)  
 
 Content
 ---------------
@@ -37,3 +43,12 @@ Related
 ----------------------------
 
 
+```python
+[
+    ["1","1","0","0","0"],
+    ["1","1","0","0","0"],
+    ["0","0","1","0","0"],
+    ["0","0","0","1","1"]
+]
+
+```
