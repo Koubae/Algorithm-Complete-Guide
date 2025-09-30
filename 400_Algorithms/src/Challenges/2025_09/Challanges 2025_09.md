@@ -23,6 +23,10 @@ Challenges 2025_09
     * Python 🐍 [3_longest_sub_string_no_rep_char.py](3_longest_sub_string_no_rep_char.py)
   * [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/description/)
     * Python 🐍 [56_merge_intervals.py](56_merge_intervals.py)
+  * [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)
+    * Python 🐍 [94_binary_tree_traversal.py](94_binary_tree_traversal.py)
+  * [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/)
+    * Python 🐍 [226_invert_binary_tree.py](226_invert_binary_tree.py)
 
 
 Content
