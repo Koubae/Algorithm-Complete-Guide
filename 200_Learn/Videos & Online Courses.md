@@ -45,6 +45,9 @@ Content
 * [Amazon -- Data Structures and Algorithms](https://www.coursera.org/learn/developer-data-structures-and-algorithms)
 
 * [University Of Colorado -- Foundations of Data Structures and Algorithms Specialization](https://www.coursera.org/specializations/boulder-data-structures-algorithms)
+* [Coursera -- Algorithms, Part I -- Java](https://www.coursera.org/learn/algorithms-part1)
+* [Coursera -- Algorithms, Part II -- Java](https://www.coursera.org/learn/algorithms-part2)
+
 
 #### Mathematics
 
